@@ -37,7 +37,6 @@ const Excercises = () => {
                 key={index}
                 excercise={excercise}
                 handleAddToCart={handleAddToCart}
-                // breakPoints ={breakPoints}
                 ></Excercise>)
               }
             </div>
