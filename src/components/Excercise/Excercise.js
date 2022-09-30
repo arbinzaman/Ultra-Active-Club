@@ -1,7 +1,7 @@
 import React from 'react';
 import './Excercise.css'
 const Excercise = (props) => {
-    // console.log(props.excercise)
+
     const{excercise,handleAddToCart } = props;
    const{picture , name, time}=props.excercise;
   
