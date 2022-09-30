@@ -9,7 +9,7 @@ const Cart = ({ cart }) => {
     let total = 0;
     for (const excercise of cart) {
         total = total + excercise.time;
-        // totalBreakPoints = excercise.breakPoints ;
+       
 
     }
     const breakTime = [
