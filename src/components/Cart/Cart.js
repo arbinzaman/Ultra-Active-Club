@@ -9,7 +9,7 @@ const Cart = ({cart}) => {
     for(const excercise of cart){
         total = total + excercise.time ;
         // totalBreakPoints = excercise.breakPoints ;
-        // console.log(excercise.breakPoints)
+      
     }
         const breakTime =[
             { id: 1, breakTime: 10 },
@@ -42,7 +42,6 @@ const Cart = ({cart}) => {
                         <p>75 kg</p> <p>6.5</p><p>25 yrs</p>
                             <p>weigth</p><p>Height</p><p>Age</p>
                     </div>
-
 
                 <p>Add A Break</p>
                 <div className="break-point">
