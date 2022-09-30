@@ -15,6 +15,7 @@ const Excercises = () => {
         },[])
         const handleAddToCart =(excercise)=>{
          
+
             const newCart =[...cart,excercise]
             setCart(newCart);
 
@@ -32,8 +33,8 @@ const Excercises = () => {
         <div className='gym-container'>
             <div className="excercises-container">
               {
-                excercises.map(excercise=><Excercise
-                Key={excercise.id}
+                excercises.map((excercise, index)=><Excercise
+                key={index}
                 excercise={excercise}
                 handleAddToCart={handleAddToCart}
                 // breakPoints ={breakPoints}
