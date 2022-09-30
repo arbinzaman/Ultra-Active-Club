@@ -18,9 +18,7 @@ const Excercises = () => {
             const newCart =[...cart,excercise]
             setCart(newCart);
 
-        // excercises.map(excercise)=>{
-        
-        // }
+       
         
     
            }
