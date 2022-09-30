@@ -22,7 +22,7 @@ const Excercises = () => {
         
         // }
         
-        //    console.log(time.innerText)
+    
            }
       
 
