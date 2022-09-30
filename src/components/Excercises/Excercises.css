@@ -1,0 +1,87 @@
+.calculate-container{
+    position: sticky;
+    top: 0;
+}
+.gym-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.user-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: #fafafa;
+    padding: 20px;
+   margin-top: 10px;
+    border-radius: 20px;
+
+}
+.user-info p{
+    margin: 0;
+}
+
+.user-img{
+    height: 80px;
+    border-radius: 100px;
+}
+.excercises-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:45px;
+}
+.user{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+}
+.break-point{
+    display: flex;
+    background-color:#fafafa ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+.break-point p{
+    margin-right: 20px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.break-point p:hover{
+    background-color: azure;
+    transition: 1s;
+}
+.excercise-details{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color:#fafafa ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+.btn-activity-complet{
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.btn-activity-complet:hover{
+    background-color: azure;
+    transition: 1s;
+}
+.question-answer h1{
+    text-align: center;
+}
+.question-answer h3{
+    text-align: center;
+}
+
+@media screen and (max-width:1100px){
+    .excercises-container{
+      grid-template-columns: repeat(2,1fr);
+
+    }
+    .gym-container{
+    gap: 45px;
+}
+}

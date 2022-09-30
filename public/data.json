@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "63368ca500aed68cadea1775",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 27,
+    "time": 53,
+    "breakPoints": 21,
+    "name": "Ofelia Russell"
+  },
+  {
+    "_id": "63368ca58de11e7e989b170f",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 35,
+    "time": 10,
+    "breakPoints": 32,
+    "name": "Lorraine Snow"
+  },
+  {
+    "_id": "63368ca5db096686a0d2e7db",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 25,
+    "time": 27,
+    "breakPoints": 57,
+    "name": "Pugh Murray"
+  },
+  {
+    "_id": "63368ca5bd6ae44d3a74c801",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 34,
+    "time": 24,
+    "breakPoints": 59,
+    "name": "Mcmahon Brock"
+  },
+  {
+    "_id": "63368ca5f08cae99e0007d3a",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 21,
+    "time": 28,
+    "breakPoints": 51,
+    "name": "Espinoza Cummings"
+  },
+  {
+    "_id": "63368ca56f530f85ac497d17",
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "age": 40,
+    "time": 43,
+    "breakPoints": 20,
+    "name": "Meadows Cote"
+  }
+]

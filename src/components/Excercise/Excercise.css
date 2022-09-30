@@ -1,0 +1,36 @@
+.gym{
+    width: 300px;
+    height: 430px;
+    border: 1px solid #ebecf0;
+    border-radius: 8px;
+}
+.gym-info{
+    margin: 0 14px;
+    
+}
+.gym-info p{
+    margin-bottom: 0px;
+}
+.gym img {
+    width : 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+.gym-name{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+}
+.btn-select{
+    width: 100%;
+    background: orange;
+    border-radius: 0px 0px 8px 8px;
+    border: none;
+}
+.btn-select:hover{
+    background-color: orangered;
+    transition: 1s;
+}
