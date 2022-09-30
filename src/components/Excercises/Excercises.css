@@ -5,6 +5,7 @@
 .gym-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    margin-left: 50px;
 }
 .user-info{
     display: grid;
@@ -84,4 +85,21 @@
     .gym-container{
     gap: 45px;
 }
+}
+@media screen and (max-width:800px){
+    .excercises-container{
+      grid-template-columns: repeat(1,1fr);
+
+    }
+    
+}
+@media screen and (max-width:550px){
+    .gym-container{
+      grid-template-columns: repeat(1,1fr);
+
+    }
+    .calculate-container{
+        position: relative;
+   
+    }
 }
