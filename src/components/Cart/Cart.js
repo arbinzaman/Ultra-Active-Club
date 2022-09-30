@@ -5,7 +5,7 @@ import './Cart.css'
 
 
 const Cart = ({ cart }) => {
-    // console.log(cart)
+ 
     let total = 0;
     for (const excercise of cart) {
         total = total + excercise.time;
