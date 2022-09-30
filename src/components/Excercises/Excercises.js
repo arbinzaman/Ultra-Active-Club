@@ -14,7 +14,7 @@ const Excercises = () => {
             .then (data=> setExcersies(data));
         },[])
         const handleAddToCart =(excercise)=>{
-            // console.log(excercise);
+         
             const newCart =[...cart,excercise]
             setCart(newCart);
 
